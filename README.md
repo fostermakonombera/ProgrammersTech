@@ -1,2 +1,2 @@
 # ProgrammersTech
-projects
+This is my portifolio
