@@ -42,6 +42,7 @@
   flex: 1; /* Make sections take up equal space */
   text-align: center;
   padding: 0px;
+    width:100%;
   background-color:black;
 }
 
